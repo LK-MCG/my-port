@@ -1,0 +1,37 @@
+#footer-contain {
+    background-color: white;
+    color: black; 
+}
+#footer-nav, ul, li, a {
+    color: black;
+}
+
+#footer-nav:hover, ul, li, a {
+    color: grey;
+}
+
+#contact-port {
+    background-color: #222A36;
+    color: white
+}
+
+#s-icon-one {
+    /* background-color: blue; */
+    width: 50px;
+    height:50px;
+}
+#s-icon-two {
+    /* background-color: yellow; */
+    width: 50px;
+    height:50px;
+}
+#s-icon-three {
+    /* background-color: green; */
+    width: 50px;
+    height:50px;
+}
+#s-icon-four {
+    /* background-color: red; */
+    width: 50px;
+    height:50px;
+}

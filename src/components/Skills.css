@@ -1,0 +1,18 @@
+#icon-holder {
+    background-color: white;
+    padding: 3rem 3rem;
+}
+
+
+#icon-size {   
+   width: 50px; 
+   height: 50px;
+}
+
+.fa-css3, .fa-html5, .fa-js, .fa-react, .fa-figma, .fa-wordpress, .fa-bootstrap, .fa-php {
+    width: 50px;
+    height: 50px; 
+}
+
+
+

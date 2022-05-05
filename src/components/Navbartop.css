@@ -1,0 +1,24 @@
+.navbar {
+ z-index: 99;
+ opacity: 70%;
+}
+
+
+
+
+
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: white;
+}
+
+
+
+.cust-nav {
+  
+    color: white;
+} 
+
+
+
+
